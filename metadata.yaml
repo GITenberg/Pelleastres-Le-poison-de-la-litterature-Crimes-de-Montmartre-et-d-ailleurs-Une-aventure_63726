@@ -1,0 +1,47 @@
+_repo: Pelleastres-Le-poison-de-la-litterature-Crimes-de-Montmartre-et-d-ailleurs-Une-aventure_63726
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Normandy, Georges (Georges Ch.)
+    alias: Normandy, Georges Charles
+    birthdate: 1882
+    deathdate: 1946
+    gutenberg_agent_id: '52568'
+    url: http://www.gutenberg.org/2009/agents/52568
+    wikipedia: https://fr.wikipedia.org/wiki/Georges_Normandy
+  illustrator:
+    agent_name: Rapeño, Armand
+    alias: Rapeno, Armand
+    birthdate: 1858
+    gutenberg_agent_id: '52567'
+    url: http://www.gutenberg.org/2009/agents/52567
+    wikipedia: https://fr.wikipedia.org/wiki/Armand_Rape%C3%B1o
+creator:
+  author:
+    agent_name: Lorrain, Jean
+    aliases:
+    - Lorrain, J. (Jean)
+    - Duval, Paul Alexandre Martin
+    birthdate: 1855
+    deathdate: 1906
+    gutenberg_agent_id: '41171'
+    url: http://www.gutenberg.org/2009/agents/41171
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Lorrain
+    - https://fr.wikipedia.org/wiki/Jean_Lorrain
+description: ''
+gutenberg_issued: '2020-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63726'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+- GITenberg
+title: Pelléastres. Le poison de la littérature. Crimes de Montmartre et d'ailleurs.
+  Une aventure.
+url: http://www.gutenberg.org/ebooks/63726
