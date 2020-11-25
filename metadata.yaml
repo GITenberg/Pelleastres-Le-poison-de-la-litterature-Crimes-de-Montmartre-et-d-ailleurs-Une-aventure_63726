@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '52567'
     url: http://www.gutenberg.org/2009/agents/52567
     wikipedia: https://fr.wikipedia.org/wiki/Armand_Rape%C3%B1o
+covers:
+- cover_type: archival
+  image_path: 63726-h/images/cover.jpg
 creator:
   author:
     agent_name: Lorrain, Jean
@@ -30,6 +33,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Lorrain
     - https://fr.wikipedia.org/wiki/Jean_Lorrain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63726#Pelleastres-Le-poison-de-la-litterature-Crimes-de-Montmartre-et-d-ailleurs-Une-aventure
 gutenberg_issued: '2020-11-12'
 gutenberg_type: Text
 identifiers:
